@@ -1,11 +1,10 @@
 # LightJar 灯光罐
 小型便携照明设备，配备可充电电池、双色温无极调光、触摸控制。  
-本产品包含5个子型号：
-- [LightJar 标配版](#lightjar-2)
-- [LightJar Color 色彩版](#lightjar-color)
-- [LightJar Large 加强版](#lightjar-large)
-- [LightJar Corner 角落版](#lightjar-corner)
-- [LightJar Net 组网版](#lightjar-net)
+本产品包含4个子型号：
+- [LightJar 标配版](#lightjar-标配版)
+- [LightJar Color 色彩版](#lightjar-color-色彩版)
+- [LightJar Corner 角落版](#lightjar-corner-角落版)
+- [LightJar Net 组网版](#lightjar-net-组网版)
 
 ### LightJar 标配版
 标准配置，具有以下特性：
