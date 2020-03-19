@@ -4,7 +4,7 @@
 MZY7实验室，硬件与软件。
 
 ### 实验室产品
-- [LightJar 灯光罐](products/lightjar-1)
+- [LightJar 灯光罐](products/lightjar)
    - [LightJar 标配版](products/lightjar#lightjar-2)
    - [LightJar Color 色彩版](products/lightjar#lightjar-color)
    - [LightJar Large 加强版](products/lightjar#lightjar-large)
